@@ -3,3 +3,4 @@
 Hope it works well.
 
 chmod +x manage.py, at WSL with DrvFS
+LF and chmod again
