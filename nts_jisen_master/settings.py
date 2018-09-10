@@ -85,8 +85,6 @@ BLOG_USE_FEATURED_IMAGE = True
 # INSTALLED_APPS setting.
 USE_MODELTRANSLATION = False
 
-# Comment settings -- added
-# COMMENTS_USE_RATINGS = False
 
 ########################
 # MAIN DJANGO SETTINGS #
